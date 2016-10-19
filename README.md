@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/dkittle/tictactoe.svg?branch=master)](https://travis-ci.org/dkittle/tictactoe)
+
 # Tic Tac Toe Backend
 
 ## Background
@@ -23,6 +25,6 @@ As ever, there should be tests :)
 ## Execution
 
 The code should be exercised by running the tests
-
-    sbt test
-
+```
+sbt test
+```
