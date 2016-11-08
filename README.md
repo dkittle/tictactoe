@@ -2,6 +2,14 @@
 
 # Tic Tac Toe Backend
 
+## Update November 2016
+I think started HorribleScalaGame in November of 2014. It didn't start with that name but it certainly deserves it now.
+
+I've since done a solution that uses pattern matching to check the state of the board. I think there is a better way
+of representing a list of patterns to match against.
+
+In another repo I've experimented with using a Finite State Machine for the game - I actually like that approach :)
+
 ## Background
 
 This is a programming exercise that I pair with developers on to see how they work toward a solution and how they take feedback.  When I was at Kijiji, we had candidates use Java for this exercise.

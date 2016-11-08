@@ -1,9 +1,14 @@
 package ttt
 
 /**
- * Created by don on 14-08-12.
- */
-class Game {
+  * WOW, this is the first Scala code I ever wrote, days after reading
+  * the Scala chapter of "7 Languages in 7 Weeks".
+  * There is a semi-colon in line 2, I don't think I need to say more.
+  *
+  * Just to show how bad Scala can be, I'm leading this in my repo! :)
+  */
+
+class HorribleScalaGame {
 
   private val board = Array.ofDim[Int](9)
   private var currentPlayer = 1;
